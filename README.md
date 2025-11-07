@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Naga Sunil<br>🎓 2025 CSE Graduate from IIIT RGUKT RKV<br>💻 Skilled in HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Django,Python, Java, AI/ML, Deep Learning, Generative AI,LangChain, LangGraph<br>🚀 Passionate about Full Stack Development and AI/ML<br>🌱 Actively looking for opportunities to apply my skills and grow as a developer
+👋 Hi, I’m Naga Sunil<br>🎓 2025 CSE Graduate from IIIT RGUKT RKV<br>💻 Skilled in HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Django,Python, Java, AI/ML, Deep Learning, Generative AI,LangChain, LangGraph, RAG<br>🚀 Passionate about Full Stack Development and AI/ML<br>🌱 Actively looking for opportunities to apply my skills and grow as a developer
 
 
 ## 🌐 Socials:
